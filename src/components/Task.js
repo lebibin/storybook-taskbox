@@ -29,7 +29,6 @@ export default function Task({
           )
         }
       </div>
-      <input type="text" value={title} readOnly={true} />
     </div>
   )
 }
