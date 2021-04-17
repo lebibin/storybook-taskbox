@@ -9,6 +9,8 @@
   Chromatic's Intro to Storybook React template
 </h1>
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b3feceab-dc13-4606-97d6-4e53685835d0/deploy-status)](https://app.netlify.com/sites/vigilant-dubinsky-d09824/deploys)
+
 This template ships with the main React and Storybook configuration files you'll need to get up and running fast.
 
 ## 🚅  Quick start
